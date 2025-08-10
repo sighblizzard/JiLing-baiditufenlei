@@ -53,3 +53,10 @@ build/
 # Temporary files
 *.tmp
 *.temp
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Screenshots and browser output
+screenshots/
+browser_output/
